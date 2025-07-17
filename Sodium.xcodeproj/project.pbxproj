@@ -1534,6 +1534,7 @@
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/Sodium";
 				INFOPLIST_FILE = Sodium/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1572,6 +1573,7 @@
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/Sodium";
 				INFOPLIST_FILE = Sodium/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
